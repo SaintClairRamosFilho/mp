@@ -62,8 +62,6 @@ Art. 7º São formas de violência doméstica e familiar contra a mulher, entre 
 
 I - a violência física, entendida como qualquer conduta que ofenda sua integridade ou saúde corporal;
 
-II - a violência psicológica, entendida como qualquer conduta que lhe cause dano emocional e diminuição da auto-estima ou que lhe prejudique e perturbe o pleno desenvolvimento ou que vise degradar ou controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, vigilância constante, perseguição contumaz, insulto, chantagem, ridicularização, exploração e limitação do direito de ir e vir ou qualquer outro meio que lhe cause prejuízo à saúde psicológica e à autodeterminação;
-
 II - a violência psicológica, entendida como qualquer conduta que lhe cause dano emocional e diminuição da autoestima ou que lhe prejudique e perturbe o pleno desenvolvimento ou que vise degradar ou controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, vigilância constante, perseguição contumaz, insulto, chantagem, violação de sua intimidade, ridicularização, exploração e limitação do direito de ir e vir ou qualquer outro meio que lhe cause prejuízo à saúde psicológica e à autodeterminação;             (Redação dada pela Lei nº 13.772, de 2018)
 
 III - a violência sexual, entendida como qualquer conduta que a constranja a presenciar, a manter ou a participar de relação sexual não desejada, mediante intimidação, ameaça, coação ou uso da força; que a induza a comercializar ou a utilizar, de qualquer modo, a sua sexualidade, que a impeça de usar qualquer método contraceptivo ou que a force ao matrimônio, à gravidez, ao aborto ou à prostituição, mediante coação, chantagem, suborno ou manipulação; ou que limite ou anule o exercício de seus direitos sexuais e reprodutivos;
@@ -103,8 +101,6 @@ IX - o destaque, nos currículos escolares de todos os níveis de ensino, para o
 CAPÍTULO II
 
 DA ASSISTÊNCIA À MULHER EM SITUAÇÃO DE VIOLÊNCIA DOMÉSTICA E FAMILIAR
-
-Art. 9º A assistência à mulher em situação de violência doméstica e familiar será prestada de forma articulada e conforme os princípios e as diretrizes previstos na Lei Orgânica da Assistência Social, no Sistema Único de Saúde, no Sistema Único de Segurança Pública, entre outras normas e políticas públicas de proteção, e emergencialmente quando for o caso.
 
 Art. 9º  A assistência à mulher em situação de violência doméstica e familiar será prestada em caráter prioritário no Sistema Único de Saúde (SUS) e no Sistema Único de Segurança Pública (Susp), de forma articulada e conforme os princípios e as diretrizes previstos na Lei nº 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), e em outras normas e políticas públicas de proteção, e emergencialmente, quando for o caso.     (Redação dada pela Lei nº 14.887, de 2024)
 
@@ -166,8 +162,6 @@ III - fornecer transporte para a ofendida e seus dependentes para abrigo ou loca
 
 IV - se necessário, acompanhar a ofendida para assegurar a retirada de seus pertences do local da ocorrência ou do domicílio familiar;
 
-V - informar à ofendida os direitos a ela conferidos nesta Lei e os serviços disponíveis.
-
 V - informar à ofendida os direitos a ela conferidos nesta Lei e os serviços disponíveis, inclusive os de assistência judiciária para o eventual ajuizamento perante o juízo competente da ação de separação judicial, de divórcio, de anulação de casamento ou de dissolução de união estável.            (Redação dada pela Lei nº 13.894, de 2019)
 
 Art. 12. Em todos os casos de violência doméstica e familiar contra a mulher, feito o registro da ocorrência, deverá a autoridade policial adotar, de imediato, os seguintes procedimentos, sem prejuízo daqueles previstos no Código de Processo Penal:
@@ -211,8 +205,6 @@ Art. 12-B. (VETADO).         (Incluído pela Lei nº 13.505, de 2017)
 § 2º (VETADO.         (Incluído pela Lei nº 13.505, de 2017)
 
 § 3º A autoridade policial poderá requisitar os serviços públicos necessários à defesa da mulher em situação de violência doméstica e familiar e de seus dependentes.         (Incluído pela Lei nº 13.505, de 2017)
-
-Art. 12-C. Verificada a existência de risco atual ou iminente à vida ou à integridade física da mulher em situação de violência doméstica e familiar, ou de seus dependentes, o agressor será imediatamente afastado do lar, domicílio ou local de convivência com a ofendida:         (Incluído pela Lei nº 13.827, de 2019)
 
 Art. 12-C.  Verificada a existência de risco atual ou iminente à vida ou à integridade física ou psicológica da mulher em situação de violência doméstica e familiar, ou de seus dependentes, o agressor será imediatamente afastado do lar, domicílio ou local de convivência com a ofendida:    (Redação dada pela Lei nº 14.188, de 2021)
 
@@ -269,8 +261,6 @@ Disposições Gerais
 Art. 18. Recebido o expediente com o pedido da ofendida, caberá ao juiz, no prazo de 48 (quarenta e oito) horas:
 
 I - conhecer do expediente e do pedido e decidir sobre as medidas protetivas de urgência;
-
-II - determinar o encaminhamento da ofendida ao órgão de assistência judiciária, quando for o caso;
 
 II - determinar o encaminhamento da ofendida ao órgão de assistência judiciária, quando for o caso, inclusive para o ajuizamento da ação de separação judicial, de divórcio, de anulação de casamento ou de dissolução de união estável perante o juízo competente;            (Redação dada pela Lei nº 13.894, de 2019)
 
@@ -451,8 +441,6 @@ Art. 38. As estatísticas sobre a violência doméstica e familiar contra a mulh
 Parágrafo único. As Secretarias de Segurança Pública dos Estados e do Distrito Federal poderão remeter suas informações criminais para a base de dados do Ministério da Justiça.
 
 Art. 38-A. O juiz competente providenciará o registro da medida protetiva de urgência.         (Incluído pela Lei nº 13.827, de 2019)
-
-Parágrafo único. As medidas protetivas de urgência serão registradas em banco de dados mantido e regulamentado pelo Conselho Nacional de Justiça, garantido o acesso do Ministério Público, da Defensoria Pública e dos órgãos de segurança pública e de assistência social, com vistas à fiscalização e à efetividade das medidas protetivas.         (Incluído pela Lei nº 13.827, de 2019)
 
 Parágrafo único. As medidas protetivas de urgência serão, após sua concessão, imediatamente registradas em banco de dados mantido e regulamentado pelo Conselho Nacional de Justiça, garantido o acesso instantâneo do Ministério Público, da Defensoria Pública e dos órgãos de segurança pública e de assistência social, com vistas à fiscalização e à efetividade das medidas protetivas.       (Redação dada Lei nº 14.310, de 2022)     Vigência
 
